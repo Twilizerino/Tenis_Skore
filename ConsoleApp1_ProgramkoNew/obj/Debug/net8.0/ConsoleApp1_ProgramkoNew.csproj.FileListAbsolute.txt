@@ -1,0 +1,14 @@
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.AssemblyInfoInputs.cache
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.AssemblyInfo.cs
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.csproj.CoreCompileInputs.cache
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/bin/Debug/net8.0/ConsoleApp1_ProgramkoNew
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/bin/Debug/net8.0/ConsoleApp1_ProgramkoNew.deps.json
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/bin/Debug/net8.0/ConsoleApp1_ProgramkoNew.runtimeconfig.json
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/bin/Debug/net8.0/ConsoleApp1_ProgramkoNew.dll
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/bin/Debug/net8.0/ConsoleApp1_ProgramkoNew.pdb
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.dll
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/refint/ConsoleApp1_ProgramkoNew.dll
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.pdb
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ConsoleApp1_ProgramkoNew.genruntimeconfig.cache
+/Users/Dzejchym/ConsoleApp1_ProgramkoNew/ConsoleApp1_ProgramkoNew/obj/Debug/net8.0/ref/ConsoleApp1_ProgramkoNew.dll
